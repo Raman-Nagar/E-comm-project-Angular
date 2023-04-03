@@ -1,0 +1,61 @@
+{
+  "seller": [
+    {
+      "name": "Raman Nagar",
+      "email": "rmn123@gmail.com",
+      "password": "rmn123",
+      "id": 4
+    },
+    {
+      "name": "lakhan",
+      "email": "lkn123@gmail.com",
+      "password": "lkn123",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "name": "nokia a40",
+      "price": "50000",
+      "color": "black",
+      "category": "mobile",
+      "image": "https://m.media-amazon.com/images/I/611jxZCY1bL._AC_UY218_.jpg",
+      "description": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
+      "id": 1
+    },
+    {
+      "name": "i phone 14",
+      "price": "100000",
+      "color": "gold",
+      "category": "Mobile",
+      "image": "https://m.media-amazon.com/images/I/71geVdy6-OS._AC_UY218_.jpg",
+      "description": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
+      "id": 2
+    },
+    {
+      "name": "lanovo gamming",
+      "price": "130000",
+      "color": "silver",
+      "category": "laptop",
+      "image": "https://m.media-amazon.com/images/I/61NAJUkUqkL._AC_UY218_.jpg",
+      "description": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "hritik",
+      "email": "hrk123@gmail.com",
+      "password": "hrk123",
+      "id": 1
+    },
+    {
+      "name": "Raman Nagar",
+      "email": "rmn123@gmail.com",
+      "password": "rmn123",
+      "id": 2
+    }
+  ],
+  "cart": [],
+  "orders": []
+}
